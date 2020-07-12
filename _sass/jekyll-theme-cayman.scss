@@ -131,15 +131,15 @@ a {
 }
 
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-  position: absolute;
-  top: 20%;
-  left: 32%;
-  background-color: #34363d8a;
-  padding: 25px;
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+    display: inline-block;
+    margin: 2px;
+    margin-top: 50%;
+    background-color: #34363d8a;
+    padding: 25px;
 
   @include large {
     font-size: 3.25rem;
