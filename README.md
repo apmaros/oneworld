@@ -6,6 +6,10 @@
   data-locale="en-GB"
   data-market="GB"
   data-currency="GBP"
+  data-origin-name="'London'"
+  data-destination-name="'Pisa'"
+  data-flight-inbound-date="2020-09-18"
+  data-flight-outbound-date="2020-09-26"
 ></div>
 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>
 
