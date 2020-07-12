@@ -1,10 +1,10 @@
 <div id="map" style="width:300px;height:300px;"></div>
 <script>
   window.mapData = {
-    "latitude": "{{ include.latitude }}",
-    "longitude": "{{ include.longitude }}",
-    "zoom": "{{ include.zoom }}",
-    "key": "{{sites.google-maps-api-key}}"
+    "latitude": parseInt("{{ include.latitude }}"),
+    "longitude": parseInt("{{ include.longitude }}"),
+    "zoom": parseInt("{{ include.zoom }}"),
+    "key": "{{site.google-maps-api-key}}"
   };
 
   function initMap() {
