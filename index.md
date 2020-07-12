@@ -9,6 +9,7 @@ layout: default
 ## Itinerary
 **LDN-PSA** / London ↔ Pisa
 ![Flight London to Pisa](/assets/flight.png)
+![Flight London to Pisa](/assets/toscan)
 
 <div
   data-skyscanner-widget="SearchWidget"
@@ -52,7 +53,16 @@ layout: default
 - [The Best Beaches in Tuscany](https://www.essentialitaly.co.uk/blog/areas-best-beaches-tuscany)
 - [tripadvisor ranking](https://www.tripadvisor.co.uk/Attractions-g187893-Activities-c61-t52-Tuscany.html)
 
+### Wine Tasting
+- Bolgery
+  - overlooking the sea
+  - [Wineries & Vineyards in Bolgheri (Tripadvisor)]https://www.tripadvisor.co.uk/Attractions-g1095770-Activities-c36-t132-Bolgheri_Castagneto_Carducci_Province_of_Livorno_Tuscany.html
+
 ### Hikes
 
 ## Accomodation
-*tbd*
+
+### Beach & Wine at Bolgeri
+Good location at wineries and beach.
+
+<div class="airbnb-embed-frame" data-id="10497684" data-view="home" style="min-width:350px;height:300px;margin:auto"><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-07-22&amp;check_out=2020-07-23&amp;s=66&amp;unique_share_id=5a153c42-5854-4979-99ba-ca9083ae8ea0&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-07-22&amp;check_out=2020-07-23&amp;s=66&amp;unique_share_id=5a153c42-5854-4979-99ba-ca9083ae8ea0&amp;source=embed_widget" rel="nofollow">Guardando l&#x27;Orizzonte</a><script async="" src="https://www.airbnb.co.uk/embeddable/airbnb_jssdk"></script></div>
