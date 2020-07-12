@@ -138,6 +138,8 @@ a {
   position: absolute;
   top: 20%;
   left: 32%;
+  background-color: #34363d8a;
+  padding: 25px;
 
   @include large {
     font-size: 3.25rem;
