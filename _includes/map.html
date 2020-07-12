@@ -54,7 +54,7 @@
 
 <script type="text/javascript">
   function addMarker(marker, map) {
-    console.log("rendering marker: loc="+ marker.loc.lat, "ln"+ marker.loc.lng);
+    console.log("rendering marker: loc="+ marker.loc.lat, "ln="+ marker.loc.lng);
     return new google.maps.Marker({
       map: map,
       position: marker.loc,
@@ -73,7 +73,7 @@
       zoom: window.data.zoom,
       maxZoom: window.data.zoom,
       minZoom: window.data.zoom,
-      center: new google.maps.LatLng(window.data.latitude, window.data.longitude),
+      center: window.geoData.pisa,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     };
 

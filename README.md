@@ -15,7 +15,7 @@
 ></div>
 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>
 
-{% include map.html latitude=43.55572725466995 longitude=11.0503227 zoom=3 %}
+{% include map.html %}
 
 
 
