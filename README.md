@@ -2,7 +2,7 @@
 
 - **outbound date:** 18 Sep 2020 (Fri)
 - **inbound date:** 26 Sep 2020 (Sat)
-- **duration:** 7 days
+- **length:** 7 days
 
 ## Itinerary
 **LDN-PSA** / London ↔ Pisa
