@@ -12,7 +12,7 @@
     window.data = {
     "latitude": parseInt("{{ include.latitude }}"),
     "longitude": parseInt("{{ include.longitude }}"),
-    "zoom": 9,
+    "zoom": 8,
   };
 
 
@@ -96,7 +96,7 @@
       scrollwheel: true,
       draggable: true,
       panControl: true,
-      disableDefaultUI: true,
+      disableDefaultUI: false,
       zoom: window.data.zoom,
       maxZoom: window.data.zoom,
       minZoom: window.data.zoom,
