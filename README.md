@@ -23,6 +23,8 @@
 
 ## Travel Ideas
 
+{% include map.html %}
+
 ### Cities
 
 - Pisa
@@ -52,5 +54,3 @@
 
 ## Accomodation
 *tbd*
-
-{% include map.html %}
