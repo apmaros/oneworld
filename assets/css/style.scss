@@ -3,9 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-    color: #fff;
-    text-align: center;
-    background-image: url("/assets/florence_hero.jpg");
- 	background-color: #cccccc;
+header {
+  background-image: url('{{ site.baseurl }}/assets/florence_hero.jpg');
 }
