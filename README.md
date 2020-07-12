@@ -1,6 +1,6 @@
 # Italy Trip
 
-![Flight London to Pisa](/assets/flight.jpg)
+![Flight London to Pisa](/assets/flight.png)
 
 <div
   data-skyscanner-widget="SearchWidget"
