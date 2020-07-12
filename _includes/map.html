@@ -1,16 +1,74 @@
 <div id="map" style="width:700px;height:700px;"></div>
+
+<!-- utils -->
 <script>
-  window.data = {
+  function getValues(obj) {
+    return Object.entries(obj).map(o => o[1])
+  }
+</script>
+
+<!-- data -->
+<script>
+    window.data = {
     "latitude": parseInt("{{ include.latitude }}"),
     "longitude": parseInt("{{ include.longitude }}"),
-    "zoom": parseInt("{{ include.zoom }}"),
+    "zoom": 9,
   };
 
-  function initMap() {
+
+  window.geoData = {
+    "florence": {
+      "lat": 43.874316,
+      "lng": 11.289719
+    },
+    "pisa": {
+      "lat": 43.722627,
+      "lng": 10.401901
+    },
+    "cinqueterre": {
+      "lat": 44.127333,
+      "lng": 9.714177
+    }
+  }
+
+  window.destinationMarkers = [
+    {
+      loc: window.geoData.florence,
+      title: "Florecne",
+      label: "A"
+    },
+    {
+      loc: window.geoData.pisa,
+      title: "Pisa",
+      label: "B"
+    },
+    {
+      loc: window.geoData.cinqueterre,
+      title: "Cinque Terre",
+      label: "C"
+    }
+  ]
+
+  window.locations = getValues(window.geoData)
+</script>
+
+<script type="text/javascript">
+  function addMarker(marker, map) {
+    console.log("rendering marker: loc="+ marker.loc.lat, "ln"+ marker.loc.lng);
+    return new google.maps.Marker({
+      map: map,
+      position: marker.loc,
+      label: marker.label
+    });
+  }
+</script>
+
+<script type="text/javascript">
+    function initMap() {
     var options = {
       scrollwheel: true,
       draggable: true,
-      panControl: false,
+      panControl: true,
       disableDefaultUI: true,
       zoom: window.data.zoom,
       maxZoom: window.data.zoom,
@@ -21,14 +79,13 @@
 
     var map = new google.maps.Map(document.getElementById('map'), options);
 
-    var marker = new google.maps.Marker({
-      map: map,
-      position: new google.maps.LatLng(window.data.latitude, window.data.longitude)
-    });
+    // display destinations
+    window.destinationMarkers.forEach(e => addMarker(e, map))
 
     google.maps.event.addDomListener(window, 'resize', function() {
       map.setCenter(options.center);
     });
   }
 </script>
+
 <script async defer src="https://maps.googleapis.com/maps/api/js?key={{site.google-maps-api-key}}&amp;callback=initMap"></script>
