@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Tuscany Trip
-
 - **outbound date:** 18 Sep 2020 (Fri)
 - **inbound date:** 26 Sep 2020 (Sat)
 - **length:** 7 days
