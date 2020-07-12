@@ -1,7 +1,11 @@
 <div id="map" style="width:300px;height:300px;"></div>
-<h1>Map</h1>
 <script>
-  window.mapData = {"latitude": ,"longitude": , "zoom": };
+  window.mapData = {
+    "latitude": "{{ include.latitude }}",
+    "longitude": "{{ include.longitude }}",
+    "zoom": "{{ include.zoom }}",
+    "key": "{{sites.google-maps-api-key}}"
+  };
 
   function initMap() {
     var myOptions = {
@@ -28,4 +32,4 @@
     });
   }
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=&amp;callback=initMap"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key={{sites.google-maps-api-key}}&amp;callback=initMap"></script>
