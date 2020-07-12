@@ -110,6 +110,8 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url('https://raw.githubusercontent.com/apmaros/oneworld/master/assets/florence_hero.jpg');
+  background-size: cover;
+  min-height: 500px;
 
   @include large {
     padding: 5rem 6rem;
@@ -127,6 +129,11 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+  position: absolute;
+  top: 20%;
+  left: 32%;
 
   @include large {
     font-size: 3.25rem;
