@@ -9,13 +9,6 @@
 
 <!-- data -->
 <script>
-    window.data = {
-    "latitude": parseInt("{{ include.latitude }}"),
-    "longitude": parseInt("{{ include.longitude }}"),
-    "zoom": 8,
-  };
-
-
   window.geoData = {
     "florence": {
       "lat": 43.874316,
@@ -75,8 +68,6 @@
       label: "6"
     }
   ]
-
-  window.locations = getValues(window.geoData)
 </script>
 
 <script type="text/javascript">
