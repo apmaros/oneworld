@@ -84,7 +84,7 @@ It is a good place to start. Having lot of energy, we can walk around the villag
 
 details:
   - inbound transport: train, ([1h 30min pisa-chinque terre](https://goo.gl/maps/hk7UzaeMxZ2pYCpy8))
-  - transport around: walking
+  - local transport: walking
   - days: 19-20 Sep
 
 ## Road Trip to Ferrary Museum
