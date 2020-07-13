@@ -33,7 +33,7 @@ Pisa is the first destination from London. Depending on schedule, we can either 
 ## Cinque Terre
 Set amid some of the most dramatic coastal scenery on the planet, these five ingeniously constructed fishing villages can bolster the most jaded of spirits. A Unesco World Heritage Site since 1997 [\[3\]](https://www.lonelyplanet.com/italy/cinque-terre).
 
-Cinque Terre is best to approach by walking. It might need more effort it is a good place to visit at the beginning of the journey. During the day is best to see the vilages and in the night, there are few good guest houses. Prices of higher-end accomodation will be probably overpriced and staying in more modest accomodation can be a pragmatic way to save some money for better price-value ration for acommodation in next locations.
+Cinque Terre is best to approach by walking. It will require more efford and that makes it a good location for the start. Prices for higher-end accomodation will be probably overpriced and staying in more modest accomodation can be a pragmatic way to save some money for better price-value ratio in next locations.
 
 details:
   - inbound transport: train, ([1h 30min pisa-chinque terre](https://goo.gl/maps/hk7UzaeMxZ2pYCpy8))
