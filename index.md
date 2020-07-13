@@ -110,7 +110,7 @@ Good location at wineries and beach. Price is around £100 for villa.
 [2] [Things to Do in Elba Island](https://www.tripadvisor.co.uk/Attractions-g202314-Activities-Elba_Island_Province_of_Livorno_Tuscany.html)<br>
 [3] [Cinque Terre, Lonelyplannet](https://www.lonelyplanet.com/italy/cinque-terre)
 
-{% if page.comments %}
+
 <div id="disqus_thread"></div>
 <script>
 
@@ -131,5 +131,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
-{% endif %}
