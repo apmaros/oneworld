@@ -58,7 +58,7 @@ layout: default
   Paid toures that can give us a himt where are good wineries [wine tours](https://www.italyandwine.net/shared-wine-tours)
 - Bolgery
   - overlooking the sea
-  - [Wineries & Vineyards in Bolgheri \(Tripadvisor\)]https://www.tripadvisor.co.uk/Attractions-g1095770-Activities-c36-t132-Bolgheri_Castagneto_Carducci_Province_of_Livorno_Tuscany.html
+  - [Wineries & Vineyards in Bolgheri \(Tripadvisor\)](https://www.tripadvisor.co.uk/Attractions-g1095770-Activities-c36-t132-Bolgheri_Castagneto_Carducci_Province_of_Livorno_Tuscany.html)
 ### Hikes
 
 ## Accomodation
@@ -66,4 +66,4 @@ layout: default
 ### Beach & Wine at Bolgeri
 Good location at wineries and beach. Price is around £100 for villa.
 
-<div class="airbnb-embed-frame" data-id="10497684" data-view="home" data-hide-price="true" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-09-17&amp;check_out=2020-09-18&amp;s=66&amp;unique_share_id=4440a639-4cc7-45d5-8acf-efd20e9d28bf&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-09-17&amp;check_out=2020-09-18&amp;s=66&amp;unique_share_id=4440a639-4cc7-45d5-8acf-efd20e9d28bf&amp;source=embed_widget" rel="nofollow">Guardando l&#x27;Orizzonte</a><script async="" src="https://www.airbnb.co.uk/embeddable/airbnb_jssdk"></script></div>
+<div class="airbnb-embed-frame" data-id="10497684" data-view="home" data-hide-price="true" style="min-width:350px;height:300px;margin:auto"><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-09-17&amp;check_out=2020-09-18&amp;s=66&amp;unique_share_id=4440a639-4cc7-45d5-8acf-efd20e9d28bf&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-09-17&amp;check_out=2020-09-18&amp;s=66&amp;unique_share_id=4440a639-4cc7-45d5-8acf-efd20e9d28bf&amp;source=embed_widget" rel="nofollow">Guardando l&#x27;Orizzonte</a><script async="" src="https://www.airbnb.co.uk/embeddable/airbnb_jssdk"></script></div>
