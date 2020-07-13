@@ -54,10 +54,11 @@ layout: default
 - [tripadvisor ranking](https://www.tripadvisor.co.uk/Attractions-g187893-Activities-c61-t52-Tuscany.html)
 
 ### Wine Tasting
+- Tuscany General
+  Paid toures that can give us a himt where are good wineries [wine tours](https://www.italyandwine.net/shared-wine-tours)
 - Bolgery
   - overlooking the sea
-  - [Wineries & Vineyards in Bolgheri (Tripadvisor)]https://www.tripadvisor.co.uk/Attractions-g1095770-Activities-c36-t132-Bolgheri_Castagneto_Carducci_Province_of_Livorno_Tuscany.html
-
+  - [Wineries & Vineyards in Bolgheri \(Tripadvisor\)]https://www.tripadvisor.co.uk/Attractions-g1095770-Activities-c36-t132-Bolgheri_Castagneto_Carducci_Province_of_Livorno_Tuscany.html
 ### Hikes
 
 ## Accomodation
