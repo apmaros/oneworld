@@ -9,7 +9,6 @@ layout: default
 ## Itinerary
 **LDN-PSA** / London ↔ Pisa
 ![Flight London to Pisa](/assets/flight.png)
-![Flight London to Pisa](/assets/toscan)
 
 <div
   data-skyscanner-widget="SearchWidget"
