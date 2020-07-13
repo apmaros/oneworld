@@ -78,8 +78,7 @@ Good location at wineries and beach. Price is around £100 for villa.
 Pisa is the first destination from London. Depending on schedule, we can either [explore the city](https://www.thecrazytourist.com/15-best-things-pisa-italy), or get on short train journey to next destination
 
 ## Cinque Terre
-Set amid some of the most dramatic coastal scenery on the planet, these five ingeniously constructed fishing villages can bolster the most jaded of spirits. A Unesco World Heritage Site since 1997 [\[3\]](https://www.lonelyplanet.com/italy/cinque-terre).
-  \r
+Set amid some of the most dramatic coastal scenery on the planet, these five ingeniously constructed fishing villages can bolster the most jaded of spirits. A Unesco World Heritage Site since 1997 [\[3\]](https://www.lonelyplanet.com/italy/cinque-terre).  \r
 It is a good place to start. Having lot of energy, we can walk around the villages and stay overnight at some guest house. It would be challenging to get nice accomodation. The trip could start modes and save up money for other days.
 
 details:
