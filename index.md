@@ -85,6 +85,9 @@ details:
   - transport around: walking
   - days: 19-20 Sep
 
+## Road Trip to Ferrary Museum
+Three hours road trip to Ferrary Museum can be a good way to see the country and stop by random places not included in the plan.
+
 ## Florence
 
 
