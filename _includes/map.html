@@ -9,6 +9,10 @@
 
 <!-- data -->
 <script>
+  window.data = {
+    "zoom": 8,
+  };
+
   window.geoData = {
     "florence": {
       "lat": 43.874316,
@@ -68,11 +72,13 @@
       label: "6"
     }
   ]
+
+  window.locations = getValues(window.geoData)
 </script>
 
 <script type="text/javascript">
   function addMarker(marker, map) {
-    console.log("rendering marker: loc="+ marker.loc.lat, "ln="+ marker.loc.lng);
+    console.log("rendering marker: title="+ marker.title "loc="+ marker.loc.lat, "ln="+ marker.loc.lng);
     return new google.maps.Marker({
       map: map,
       position: marker.loc,
