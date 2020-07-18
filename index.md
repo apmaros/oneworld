@@ -3,8 +3,14 @@ layout: default
 comments: true
 ---
 
+option September
 - **outbound date:** 18 Sep 2020 (Fri)
 - **inbound date:** 26 Sep 2020 (Sat)
+- **length:** 7 days
+
+option August
+- **outbound date:** 21 Aug 2020
+- **inbound date:** 29 Aug 2020 (Sat)
 - **length:** 7 days
 
 ## Itinerary
