@@ -30,6 +30,23 @@ option August
 ></div>
 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>
 
+From Aug 20 to 30
+
+Aug 20: Pisa & Lucca (overnight in Lucca)
+Aug 21: Florence
+Aug 22: Florence 
+Aug 23: transfer to Villa (with stops in cute towns)
+Aug 24: Villa + Vineyards
+Aug 25: Villa 
+Aug 26: Transfer to Elba
+Aug 27: Elba 
+Aug 28: Elba + diving
+Aug 29: transfer back to Pisa (return car)
+Aug 30: trip back to London early morning
+
+# Checklist
+<a href="https://checklist.com/tuscany-checklist/" class="checklist-iframe-container">Tuscany Checklist</a>
+
 # Travel Plan
 
 {% include map.html %}
@@ -137,3 +154,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<script src="https://checklist.com/widget/v1/widget.js"></script>
