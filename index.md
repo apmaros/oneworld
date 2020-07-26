@@ -32,10 +32,10 @@ option August
 
 From Aug 20 to 30
 
-- **Aug 20:** Pisa (stay over in Florence)
+- **Aug 20:** Pisa & Lucca (checkin in Florence)
 - **Aug 21:** Florence
 - **Aug 22:** Florence
-- **Aug 23:** transfer to Villa (with stops in cute towns)
+- **Aug 23:** Wine tasting in Dievole Vinery
 - **Aug 24:** Villa + Vineyards
 - **Aug 25:** Villa 
 - **Aug 26:** Transfer to Elba
