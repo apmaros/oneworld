@@ -32,17 +32,16 @@ option August
 
 From Aug 20 to 30
 
-Aug 20: Pisa & Lucca (overnight in Lucca)
-Aug 21: Florence
-Aug 22: Florence 
-Aug 23: transfer to Villa (with stops in cute towns)
-Aug 24: Villa + Vineyards
-Aug 25: Villa 
-Aug 26: Transfer to Elba
-Aug 27: Elba 
-Aug 28: Elba + diving
-Aug 29: transfer back to Pisa (return car)
-Aug 30: trip back to London early morning
+- *Aug 20:* Pisa (stay over in Florence)
+- *Aug 21:* Florence
+- *Aug 22:* Florence
+- *Aug 23:* transfer to Villa (with stops in cute towns)
+- *Aug 24:* Villa + Vineyards
+- *Aug 25:* Villa 
+- *Aug 26:* Transfer to Elba
+- *Aug 27:* Elba 
+- *Aug 28:* Elba + diving
+- *Aug 29:* transfer to Pisa and outbount flight to London
 
 # Checklist
 <a href="https://checklist.com/tuscany-checklist/" class="checklist-iframe-container">Tuscany Checklist</a>
