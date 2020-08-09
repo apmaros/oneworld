@@ -25,7 +25,11 @@ comments: true
 - Aug 28: Elba
 - Aug 29: Elba -> Pisa -> London
 
->>>>>>> update itinerary
+
+## Restrictions Information
+  - Form to fill in advance https://www.esteri.it/mae/resource/doc/2020/07/modulo_rientro_da_estero_08_07_2020_-_eng_0.pdf
+  - Quarantine information [www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html](www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html)
+
 
 # Travel Plan
 
