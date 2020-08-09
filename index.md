@@ -50,7 +50,7 @@ Only 10 kilometers from the west coast of Italy there is one of my favorite plac
 
 Features:
   - beaches
-  - diving
+  - diving - more in [PADI guide](https://travel.padi.com/d/elba/)
   - watersports (kayaking, boat tour)
   - hike - Mt. Capanne
 
