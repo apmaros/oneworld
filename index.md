@@ -3,48 +3,29 @@ layout: default
 comments: true
 ---
 
-option September
-- **outbound date:** 18 Sep 2020 (Fri)
-- **inbound date:** 26 Sep 2020 (Sat)
-- **length:** 7 days
+# Itinerary
 
-option August
-- **outbound date:** 21 Aug 2020
-- **inbound date:** 29 Aug 2020 (Sat)
-- **length:** 7 days
+- **outbound:** 20 Aug 2020 (Thu)
+  - flight: 08:50 - 11:00 STN FR-584
+- **inbound:** 29 Aug 2020 (Sat)
+  - flight: 21:05 - 23:25 PSA FR-589
+- **length:** 9 nights
 
-## Itinerary
-**LDN-PSA** / London ↔ Pisa
-![Flight London to Pisa](/assets/flight.png)
 
-<div
-  data-skyscanner-widget="SearchWidget"
-  data-associate-id="a62db278-4fa1-4c4d-bff2-b540a6d1a917"
-  data-locale="en-GB"
-  data-market="GB"
-  data-currency="GBP"
-  data-origin-name="'London'"
-  data-destination-name="'Pisa'"
-  data-flight-outbound-date="2020-09-18"
-  data-flight-inbound-date="2020-09-26"
-></div>
-<script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>
+## Summary
+- Aug 20: London -> Florence
+- Aug 21: Florence
+- Aug 22: Florence
+- Aug 23: transfer Florence -> Villa
+- Aug 23: Villa
+- Aug 24: Villa
+- Aug 25: [Wine Resort](https://www.booking.com/hotel/it/wine-resort-dievole.en-gb.html?aid=964694;label=Share-yyVQH5%401595780139;sid=7c8bf90e858296259329595ced82212e;checkin=2020-08-23&checkout=2020-08-24&dist=0&from_sn=android&keep_landing=1&no_rooms=1&sb_price_type=total&type=total&)
+- Aug 26: Elba
+- Aug 27: Elba
+- Aug 28: Elba
+- Aug 29: Elba -> Pisa -> London
 
-From Aug 20 to 30
-
-- **Aug 20:** Pisa & Lucca (checkin in Florence)
-- **Aug 21:** Florence
-- **Aug 22:** Florence
-- **Aug 23:** Wine tasting in Dievole Vinery
-- **Aug 24:** Villa + Vineyards
-- **Aug 25:** Villa 
-- **Aug 26:** Transfer to Elba
-- **Aug 27:** Elba 
-- **Aug 28:** Elba + diving
-- **Aug 29:** transfer to Pisa and outbount flight to London
-
-# Checklist
-<a href="https://checklist.com/tuscany-checklist/" class="checklist-iframe-container">Tuscany Checklist</a>
+>>>>>>> update itinerary
 
 # Travel Plan
 
