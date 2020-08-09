@@ -35,24 +35,6 @@ comments: true
 
 {% include map.html %}
 
-## Pisa
-Pisa is the first destination from London. Depending on schedule, we can either [explore the city](https://www.thecrazytourist.com/15-best-things-pisa-italy), or get on short train journey to next destination
-
-## Cinque Terre
-Set amid some of the most dramatic coastal scenery on the planet, these five ingeniously constructed fishing villages can bolster the most jaded of spirits. A Unesco World Heritage Site since 1997 [\[3\]](https://www.lonelyplanet.com/italy/cinque-terre).
-
-Cinque Terre is best to approach by walking. It will require more efford and that makes it a good location for the start. Prices for higher-end accomodation will be probably overpriced and staying in more modest accomodation can be a pragmatic way to save some money for better price-value ratio in next locations.
-
-details:
-  - inbound transport: train, ([1h 30min pisa-chinque terre](https://goo.gl/maps/hk7UzaeMxZ2pYCpy8))
-  - local transport: walking
-  - days: 19-20 Sep
-
-## Road Trip to Ferrary Museum
-Three hours road trip to Ferrary Museum can be a good way to see the country and stop by random places not included in the plan.
-
-## Florence
-
 
 ## Elba
 Only 10 kilometers from the west coast of Italy there is one of my favorite place in Tuscany: Isola d’Elba. An Island in the mediterranean sea with gorgeous beaches and folkloristic villages with night markets, live music and good restaurants [\[1\]](https://travelista.club/guides/isola-delba-a-little-paradise-in-the-sea-of-tuscany-italy/). It can be a good place towards the end to slow down, relax near the beach and walk around local villages, or doing some activities if we are bored [\[2\]](https://www.tripadvisor.co.uk/Attractions-g202314-Activities-Elba_Island_Province_of_Livorno_Tuscany.html)
@@ -110,7 +92,6 @@ _tbd_
 
 ### Beach & Wine at Bolgeri
 Good location at wineries and beach. Price is around £100 for villa.
-<div class="airbnb-embed-frame" data-id="10497684" data-view="home" data-hide-price="true" style="min-width:350px;height:300px;margin:auto"><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-09-17&amp;check_out=2020-09-18&amp;s=66&amp;unique_share_id=4440a639-4cc7-45d5-8acf-efd20e9d28bf&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.uk/rooms/10497684?check_in=2020-09-17&amp;check_out=2020-09-18&amp;s=66&amp;unique_share_id=4440a639-4cc7-45d5-8acf-efd20e9d28bf&amp;source=embed_widget" rel="nofollow">Guardando l&#x27;Orizzonte</a><script async="" src="https://www.airbnb.co.uk/embeddable/airbnb_jssdk"></script></div>
 
 # References
 [1] [Elba, A GEM OF THE MEDITERRANEAN SEA](https://travelista.club/guides/isola-delba-a-little-paradise-in-the-sea-of-tuscany-italy/)<br>
