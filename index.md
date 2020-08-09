@@ -34,12 +34,10 @@ comments: true
 
 ![Car Rental](/assets/car-rental.png)
 
-**pickup**: 20 August 2020 12:30
-**dropoff**: 29 August 2020 19:00
-
-Phone  : 3905024347 <br>
-Address: 13, Via Cariola, Pisa, Italy, 56121
-
+- **Pickup**: 20 August 2020 12:30
+- **Dropoff**: 29 August 2020 19:00
+- **Phone**: 3905024347 <br>
+- **Address**: 13, Via Cariola, Pisa, Italy, 56121
 
 
 # Travel Plan
