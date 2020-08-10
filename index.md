@@ -27,8 +27,9 @@ comments: true
 
 
 ## Restrictions Information
-  - Form to fill in advance https://www.esteri.it/mae/resource/doc/2020/07/modulo_rientro_da_estero_08_07_2020_-_eng_0.pdf
-  - Quarantine information [www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html](www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html)
+- Covid Numbers are published by [www.worldometers.info](https://www.worldometers.info/coronavirus/country/uk)
+- Form to fill in advance https://www.esteri.it/mae/resource/doc/2020/07/modulo_rientro_da_estero_08_07_2020_-_eng_0.pdf
+- Quarantine information [www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html](www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html)
 
 ## Transport
 
@@ -44,6 +45,31 @@ comments: true
 
 {% include map.html %}
 
+## Florence
+- [Lonely Planet Guide](https://www.lonelyplanet.com/italy/florence)
+- [Trip Advisor](https://www.tripadvisor.co.uk/Attractions-g187895-Activities-Florence_Tuscany.html)
+
+### Gallerie Degli Uffizi
+- price 20 Eur
+- recommended time for visit 3-4 hours [faq](https://www.visituffizi.org/frequently-asked-questions/#:~:text=To%20see%20the%20Uffizi%20at,yourself%20at%20least%202%20hours.)
+- [official website](https://www.uffizi.it/en/the-uffizi)
+- [local guide ](https://www.visituffizi.org)
+- [covid information](https://www.uffizi.it/en/notices/covid-19-rules-for-visitors)
+  - Study Room of the Department of Prints and Drawings remains closed throughout the month of August.
+
+
+### Duomo
+ - [official website]
+ - [Lonely Planet intro](https://www.lonelyplanet.com/italy/florence/attractions/duomo/a/poi-sig/388337/360059)
+ - [tickets](https://duomo.tickets-florence.it) - not official, can we find better?
+
+### Ponte Vecchio
+medieval stone bridge with lewelry shops - take picture
+
+### Piazza del la Signoria
+Since its beginning during the Middle Ages, the Piazza della Signoria has been the political heart of the city. Square with number of important statues and restaurants
+
+### Bargello Museum
 
 ## Elba
 Only 10 kilometers from the west coast of Italy there is one of my favorite place in Tuscany: Isola d’Elba. An Island in the mediterranean sea with gorgeous beaches and folkloristic villages with night markets, live music and good restaurants [\[1\]](https://travelista.club/guides/isola-delba-a-little-paradise-in-the-sea-of-tuscany-italy/). It can be a good place towards the end to slow down, relax near the beach and walk around local villages, or doing some activities if we are bored [\[2\]](https://www.tripadvisor.co.uk/Attractions-g202314-Activities-Elba_Island_Province_of_Livorno_Tuscany.html)
