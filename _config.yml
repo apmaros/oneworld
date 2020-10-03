@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 google-maps-api-key: "AIzaSyAKn7GOr7eWOWdudqTWU9x_r-IWsGDxj-0"
+remote_theme: poole/hyde
