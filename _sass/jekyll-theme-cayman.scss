@@ -32,6 +32,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  min-width: 240px;
 }
 
 #skip-to-content {
@@ -105,41 +106,57 @@ a {
   }
 }
 
+// parent to any other main element
+.container {
+  width: 100%;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.post a {
+    font-size: 1.5rem;
+    color: #567482;
+}
+
+.post-hero {
+  height: 300px;
+  margin: auto;
+  padding: 40px;
+  background-size: cover;
+  background-size: cover;
+}
+
+.post-hero a {
+  color: #567482;
+  font-size: xx-large;
+  text-transform: uppercase;
+}
+
 .page-header {
-  color: $header-heading-color;
-  text-align: center;
-  text-align: center;
-  background-color: #555555;
+  color: #567482;
   margin: 0px;
-
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
+  padding: 0rem 1rem;
 }
 
 .project-name {
-  width: 50%;
   margin: auto;
-  padding: 40px;
+  padding: 1.5rem;
+  font-weight: bolder;
+  text-align: center;
+  text-transform: uppercase;
 
   @include large {
-    font-size: 3.25rem;
+    font-size: 2rem;
   }
 
   @include medium {
-    font-size: 2.25rem;
+    font-size: 1.5rem;
   }
 
   @include small {
-    font-size: 1.75rem;
+    font-size: 1rem;
   }
 }
 
@@ -170,7 +187,7 @@ a {
 
   @include large {
     max-width: 64rem;
-    padding: 2rem 6rem;
+    padding: 2rem 0rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }

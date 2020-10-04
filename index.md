@@ -3,14 +3,12 @@ layout: default
 comments: true
 ---
 
-
-# My posts
-
-<ul>
+<div>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <div class="post">
+      <a href="{{ post.url }}">{{ post.title }}
+      <img src="https://raw.githubusercontent.com/apmaros/oneworld/master/assets/{{post.assets}}/{{post.hero}}" alt="image hero for {{ post.title }}">
+      </a>
+    <div>
   {% endfor %}
-</ul>
-
+</div>

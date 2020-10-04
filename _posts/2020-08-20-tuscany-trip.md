@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Summer trip to Tuscany"
+title: "Summer Trip to Tuscany"
+hero: "hero-1276.jpg"
+assets: tuscany2020
 ---
 
 
@@ -34,7 +36,7 @@ title: "Summer trip to Tuscany"
 
 ## Transport
 
-![Car Rental](/assets/car-rental.png)
+![Car Rental]({{assets}}/{{hero}}/assets/car-rental.png)
 
 - **Pickup**: 20 August 2020 12:30
 - **Dropoff**: 29 August 2020 19:00
