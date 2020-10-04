@@ -108,14 +108,9 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: url('https://raw.githubusercontent.com/apmaros/oneworld/master/assets/florence_hero.jpg');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-size: cover;
-  min-height: 500px;
+  text-align: center;
+  background-color: #555555;
+  margin: 0px;
 
   @include large {
     padding: 5rem 6rem;
@@ -131,15 +126,9 @@ a {
 }
 
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-  position: absolute;
-  top: 20%;
-  left: 32%;
-  background-color: #34363d8a;
-  padding: 25px;
+  width: 50%;
+  margin: auto;
+  padding: 40px;
 
   @include large {
     font-size: 3.25rem;
